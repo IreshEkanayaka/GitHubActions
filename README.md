@@ -1,3 +1,3 @@
 # GitHub Actions Demo
 
-This is a test repo to try out GitHub Actions.
+This is a repo to try out GitHub Actions.
